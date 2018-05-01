@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 import classnames from 'classnames'
 
 import { sec_to_time } from 'src/utils/tools'
-import './index.scss'
+import './index.css'
 
 /**
  * props
