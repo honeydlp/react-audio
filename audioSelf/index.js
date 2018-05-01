@@ -3,7 +3,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import classnames from 'classnames'
 
-import { sec_to_time } from 'src/utils/tools'
+import { sec_to_time } from './tools'
 import './index.css'
 
 /**
